@@ -30,7 +30,7 @@
   "dependencies": {
     "q": "",
     "qx": "",
-    "orm": ""
+    "orm": "https://github.com/diegosucaria/node-orm2/tarball/master"
   },
   "readmeFilename": "README.md"
 }
